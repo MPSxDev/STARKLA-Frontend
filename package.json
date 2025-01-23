@@ -13,6 +13,7 @@
     "@heroicons/react": "^2.2.0",
     "@starknet-react/core": "^3.7.1",
     "elizabot": "^0.0.3",
+    "framer-motion": "^12.0.3",
     "lucide-react": "^0.469.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
